@@ -1,5 +1,5 @@
 public class F2{
     public static void main(String[] args){
-        System.out.println("Branching concept in GitHub");
+        System.out.println("Branching concept in Git and GitHub");
     }
 }
